@@ -77,6 +77,6 @@ If you're interested in collaborating, message me anytime.
 🔗 Connect With Me
 
 🌐 Website (FlowAI Solutions): [https://www.flowaisolutionsllc.com/](https://www.flowaisolutionsllc.com/)
-💼 LinkedIn: [Insert link](https://www.linkedin.com/in/brandon-schmidt1/)
+💼 LinkedIn: [https://www.linkedin.com/in/brandon-schmidt1/](https://www.linkedin.com/in/brandon-schmidt1/)
 🐦 X/Twitter: @BrandonLee_AI
-📧 Email: Optional
+📧 Email: brandon.schmidt@flowaisolutionsllc.com 
