@@ -1,7 +1,11 @@
 👋 Hi, I'm Brandon — Data Scientist | Aspiring AI Engineer | Consultant
+
 🇺🇸 Senior Data Scientist | AI & Automation Consultant (FlowAI Solutions)
+
 🎓 Doctoral Researcher (AI-Driven Process Automation & Employee Experience)
+
 💡 Builder of intelligent systems, data pipelines, and end-to-end data analytics solutions
+
 🚀 About Me
 
 I’m a data scientist focused on AI, automation, predictive analytics, and business-driven machine learning. My work spans federal consulting, enterprise analytics, and small-business digital transformation through FlowAI Solutions L.L.C. (Founder/CEO)
@@ -76,7 +80,4 @@ If you're interested in collaborating, message me anytime.
 
 🔗 Connect With Me
 
-🌐 Website (FlowAI Solutions): [https://www.flowaisolutionsllc.com/](https://www.flowaisolutionsllc.com/)
-💼 LinkedIn: [https://www.linkedin.com/in/brandon-schmidt1/](https://www.linkedin.com/in/brandon-schmidt1/)
-🐦 X/Twitter: @BrandonLee_AI
 📧 Email: brandon.schmidt@flowaisolutionsllc.com 
