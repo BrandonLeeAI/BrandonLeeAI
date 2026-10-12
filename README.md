@@ -1,6 +1,6 @@
 👋 Hi, I'm Brandon — Data Scientist | Aspiring AI Engineer | Consultant
 
-🇺🇸 Senior Data Scientist | AI & Automation Consultant (FlowAI Solutions)
+🇺🇸 Forward Deployed Engineer | AI Engineer
 
 🎓 Doctoral Researcher (AI-Driven Process Automation & Employee Experience)
 
@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-I’m a data scientist focused on AI, automation, predictive analytics, and business-driven machine learning. My work spans federal consulting, enterprise analytics, and small-business digital transformation through FlowAI Solutions L.L.C. (Founder/CEO)
+I’m a forward deployed engineer with a data scientist background focused on AI, automation, predictive analytics, and business-driven machine learning. My work spans federal consulting, enterprise analytics, and small-business digital transformation. I am also the Founder/CEO of FlowAI Solutions L.L.C. 
 
 With a strong foundation in data analytics, data pipelining, machine learning, and applied research, I specialize in turning messy problems into structured models, insights, and automated systems.
 
